@@ -1,0 +1,178 @@
+{
+  "uid" : "9da5bb8978c5d606",
+  "name" : "Validate Liquid Staking Navigation From Overview",
+  "fullName" : "Validate Liquid Staking Navigation From Overview",
+  "historyId" : "prod AnalyticsOverviewTest.spec.js Validate Liquid Staking Navigation From Overview",
+  "time" : {
+    "start" : 1652259481437,
+    "stop" : 1652259511894,
+    "duration" : 30457
+  },
+  "status" : "broken",
+  "statusMessage" : "Timeout of 30000ms exceeded.",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timeout of 30000ms exceeded.",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1652259481437,
+        "stop" : 1652259481512,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1652259481439,
+          "stop" : 1652259481512,
+          "duration" : 73
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "page.goto(/overview)",
+      "time" : {
+        "start" : 1652259481513,
+        "stop" : 1652259482459,
+        "duration" : 946
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(text=\"5. Liquid Staking\")",
+      "time" : {
+        "start" : 1652259482459,
+        "stop" : 1652259511641,
+        "duration" : 29182
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1652259511436,
+        "stop" : 1652259511862,
+        "duration" : 426
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1652259511634,
+          "stop" : 1652259511672,
+          "duration" : 38
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "bb2afd418aee9023",
+      "name" : "video",
+      "source" : "bb2afd418aee9023.webm",
+      "type" : "video/webm",
+      "size" : 535003
+    }, {
+      "uid" : "9655a98ef010df37",
+      "name" : "trace",
+      "source" : "9655a98ef010df37.ZIP",
+      "type" : "application/zip",
+      "size" : 2390
+    }, {
+      "uid" : "afc0332d2dc7d68d",
+      "name" : "trace",
+      "source" : "afc0332d2dc7d68d.ZIP",
+      "type" : "application/zip",
+      "size" : 1523732
+    }, {
+      "uid" : "e862d9f19346673",
+      "name" : "screenshot",
+      "source" : "e862d9f19346673.png",
+      "type" : "image/png",
+      "size" : 30802
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "prod"
+  }, {
+    "name" : "suite",
+    "value" : "AnalyticsOverviewTest.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9da5bb8978c5d606.json",
+  "parameterValues" : [ ]
+}

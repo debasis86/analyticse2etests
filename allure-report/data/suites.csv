@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 11 01:57:51 PDT 2022","Wed May 11 01:57:54 PDT 2022","2763","prod","AnalyticsOverviewTest.spec.js","","","","Analytics Over view page",""
+"passed","Wed May 11 01:58:34 PDT 2022","Wed May 11 01:58:36 PDT 2022","1628","prod","AnalyticsOverviewTest.spec.js","","","","Validate Money Market Navigation From Overview",""
+"broken","Wed May 11 01:58:01 PDT 2022","Wed May 11 01:58:31 PDT 2022","30457","prod","AnalyticsOverviewTest.spec.js","","","","Validate Liquid Staking Navigation From Overview",""
+"passed","Wed May 11 01:57:54 PDT 2022","Wed May 11 01:57:56 PDT 2022","2340","prod","AnalyticsOverviewTest.spec.js","","","","Analytics Over view page All Products TVL",""
+"passed","Wed May 11 01:58:32 PDT 2022","Wed May 11 01:58:34 PDT 2022","2416","prod","AnalyticsOverviewTest.spec.js","","","","Validate AMM Navigation From Overview",""
+"passed","Wed May 11 01:57:56 PDT 2022","Wed May 11 01:58:01 PDT 2022","4690","prod","AnalyticsOverviewTest.spec.js","","","","Validate Crowdloan Navigation From Overview",""

@@ -1,0 +1,115 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "prod",
+    "children" : [ {
+      "name" : "AnalyticsOverviewTest.spec.js",
+      "children" : [ {
+        "name" : "Analytics Over view page",
+        "uid" : "70f5805d4aed2657",
+        "parentUid" : "802f88ac80f67f4b2ef9f0701c4e605e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652259471644,
+          "stop" : 1652259474407,
+          "duration" : 2763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Analytics Over view page All Products TVL",
+        "uid" : "44b7a6bf2cc3a38c",
+        "parentUid" : "802f88ac80f67f4b2ef9f0701c4e605e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652259474407,
+          "stop" : 1652259476747,
+          "duration" : 2340
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate Crowdloan Navigation From Overview",
+        "uid" : "221db9330061f1bc",
+        "parentUid" : "802f88ac80f67f4b2ef9f0701c4e605e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652259476747,
+          "stop" : 1652259481437,
+          "duration" : 4690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate Liquid Staking Navigation From Overview",
+        "uid" : "9da5bb8978c5d606",
+        "parentUid" : "802f88ac80f67f4b2ef9f0701c4e605e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652259481437,
+          "stop" : 1652259511894,
+          "duration" : 30457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate AMM Navigation From Overview",
+        "uid" : "4fe16c94762863ad",
+        "parentUid" : "802f88ac80f67f4b2ef9f0701c4e605e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652259512132,
+          "stop" : 1652259514548,
+          "duration" : 2416
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate Money Market Navigation From Overview",
+        "uid" : "ba296016ae616ebf",
+        "parentUid" : "802f88ac80f67f4b2ef9f0701c4e605e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652259514549,
+          "stop" : 1652259516177,
+          "duration" : 1628
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "802f88ac80f67f4b2ef9f0701c4e605e"
+    } ],
+    "uid" : "b58b701851300fb444c2de5ef6a6051e"
+  } ],
+  "name" : "suites"
+}

@@ -1,0 +1,61 @@
+[ {
+  "uid" : "70f5805d4aed2657",
+  "name" : "Analytics Over view page",
+  "time" : {
+    "start" : 1652259471644,
+    "stop" : 1652259474407,
+    "duration" : 2763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba296016ae616ebf",
+  "name" : "Validate Money Market Navigation From Overview",
+  "time" : {
+    "start" : 1652259514549,
+    "stop" : 1652259516177,
+    "duration" : 1628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9da5bb8978c5d606",
+  "name" : "Validate Liquid Staking Navigation From Overview",
+  "time" : {
+    "start" : 1652259481437,
+    "stop" : 1652259511894,
+    "duration" : 30457
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "44b7a6bf2cc3a38c",
+  "name" : "Analytics Over view page All Products TVL",
+  "time" : {
+    "start" : 1652259474407,
+    "stop" : 1652259476747,
+    "duration" : 2340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fe16c94762863ad",
+  "name" : "Validate AMM Navigation From Overview",
+  "time" : {
+    "start" : 1652259512132,
+    "stop" : 1652259514548,
+    "duration" : 2416
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "221db9330061f1bc",
+  "name" : "Validate Crowdloan Navigation From Overview",
+  "time" : {
+    "start" : 1652259476747,
+    "stop" : 1652259481437,
+    "duration" : 4690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timeout of 30000ms exceeded.",
+      "children" : [ {
+        "name" : "Validate Liquid Staking Navigation From Overview",
+        "uid" : "9da5bb8978c5d606",
+        "parentUid" : "243d80d303fd3cc7cb395edf69aec83a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652259481437,
+          "stop" : 1652259511894,
+          "duration" : 30457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "243d80d303fd3cc7cb395edf69aec83a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

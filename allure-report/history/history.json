@@ -1,0 +1,117 @@
+{
+  "prod AnalyticsOverviewTest.spec.js Analytics Over view page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "70f5805d4aed2657",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652259471644,
+        "stop" : 1652259474407,
+        "duration" : 2763
+      }
+    } ]
+  },
+  "prod AnalyticsOverviewTest.spec.js Validate Money Market Navigation From Overview" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ba296016ae616ebf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652259514549,
+        "stop" : 1652259516177,
+        "duration" : 1628
+      }
+    } ]
+  },
+  "prod AnalyticsOverviewTest.spec.js Validate AMM Navigation From Overview" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fe16c94762863ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652259512132,
+        "stop" : 1652259514548,
+        "duration" : 2416
+      }
+    } ]
+  },
+  "prod AnalyticsOverviewTest.spec.js Validate Crowdloan Navigation From Overview" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "221db9330061f1bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652259476747,
+        "stop" : 1652259481437,
+        "duration" : 4690
+      }
+    } ]
+  },
+  "prod AnalyticsOverviewTest.spec.js Validate Liquid Staking Navigation From Overview" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9da5bb8978c5d606",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 30000ms exceeded.",
+      "time" : {
+        "start" : 1652259481437,
+        "stop" : 1652259511894,
+        "duration" : 30457
+      }
+    } ]
+  },
+  "prod AnalyticsOverviewTest.spec.js Analytics Over view page All Products TVL" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44b7a6bf2cc3a38c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652259474407,
+        "stop" : 1652259476747,
+        "duration" : 2340
+      }
+    } ]
+  }
+}
