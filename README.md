@@ -11,8 +11,12 @@ E2E tests for Parallel Analytics application
     
 #### 2. Install nvm version and npm dependencies
 
-    nvm i && nvm use
-    npm i
+    install Node.js
+    npm init playwright
+         - ok to proceed --> y
+         - typescript or javascript --> javascript
+         - add github action workflo --> N
+         
     
 ## Running Tests
 
