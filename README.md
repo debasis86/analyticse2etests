@@ -55,13 +55,13 @@ E2E tests for Parallel Analytics application
     #### 2. Running API tests for analytics.
     #### 3. Running tests based on environment DEV or PROD.
     #### 4. Running tests for all browsers(Chrome, Firefox and Safari) extend support for mobile browsers also.
-    #### 5. Taking screenshots on failure and videos .
+    #### 5. Taking screenshots and videos on failure.
     #### 6. Generate reports of test execution. 
     #### 7. Record  traces of test providing additional information to Developer.
     #### 8. Support for Visual testing of images or elements.
 
 
-## Framwork None Supported list
+## Framework None Supported list
 
     #### 1. Adding wallet extension.
     #### 2. Dapps use cases that need Polkadot or Parallel Wallet 
