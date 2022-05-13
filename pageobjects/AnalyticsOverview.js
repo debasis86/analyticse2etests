@@ -8,8 +8,8 @@ class AnalyticsOverview {
         this.liquidCrowdloan = page.locator('text="1. Liquid Crowdloan"');
         this.activeTab = page.locator('a[class="active undefined"]');
         this.yeildAccount = page.locator('text="2. Yield Account"');
-        this.liquidStaking = page.locator('text="5. Liquid Staking"');
-        this.amm = page.locator('text="4. AMM"');
+        this.liquidStaking = page.locator('text="4. Liquid Staking"');
+        this.amm = page.locator('text="5. AMM"');
         this.moneyMarket = page.locator('text="3. Money Market"');
         this.farming = page.locator('text="6. Farming"');
 
