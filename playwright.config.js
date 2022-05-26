@@ -22,7 +22,7 @@ const config = {
       name: 'prod',
       use: {
         browserName : 'chromium',
-        headless : false,
+        headless : true,
         screenshot : 'only-on-failure',
         video : 'on',
         trace : 'on',
@@ -35,7 +35,7 @@ const config = {
       name: 'dev',
       use: {
         browserName : 'chromium',
-        headless : false,
+        headless : true,
         screenshot : 'only-on-failure',
         video : 'on',
         trace : 'retain-on-failure',
