@@ -71,6 +71,7 @@ E2E tests for Parallel Analytics application
 
     #### 1. Integrating with CI/CD pipeline and run as part of DEV and Prod deployment of Analytics .
     #### 2. Automate all P0 and P1 cases.
+    #### 3. Integrate with slack.
 
 
 
